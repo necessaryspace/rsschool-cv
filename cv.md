@@ -20,4 +20,4 @@ Quite recently I started studying web development and every day I try to gain ne
  * Self-study, YouTube and mini courses.
  
 ### English level :
- Pre-intermediate.  I am studying English in Simpler App.
+ Pre-intermediate. I am studying English in Simpler App.
